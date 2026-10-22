@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Animated Tasfia Tabassum profile banner" />
+  <img src="assets/tasfia-header-banner.png" width="100%" alt="Tasfia Tabassum — turning ideas into code" />
 </div>
 
 <div align="center">
