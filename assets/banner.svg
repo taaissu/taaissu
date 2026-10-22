@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Animated banner for Tasfia Tabassum">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#160b2e"/><stop offset=".55" stop-color="#512a85"/><stop offset="1" stop-color="#b44d9a"/></linearGradient>
+    <linearGradient id="text" x1="0" x2="1"><stop stop-color="#fff"/><stop offset=".5" stop-color="#f0abfc"/><stop offset="1" stop-color="#fff"/></linearGradient>
+  </defs>
+  <style>
+    .glow { animation: drift 5s ease-in-out infinite alternate; }
+    .twinkle { animation: blink 1.7s ease-in-out infinite; }
+    .t2 { animation-delay:.55s } .t3 { animation-delay:1.1s }
+    .name { animation: fade 2s ease-out both; }
+    @keyframes drift { to { transform:translate(24px,-10px); opacity:.55 } }
+    @keyframes blink { 0%,100% { opacity:.25; transform:scale(.7) } 50% { opacity:1; transform:scale(1.3) } }
+    @keyframes fade { from { opacity:0; letter-spacing:12px } to { opacity:1; letter-spacing:2px } }
+  </style>
+  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
+  <circle class="glow" cx="180" cy="100" r="100" fill="#c084fc" opacity=".22"/>
+  <circle class="glow" cx="1030" cy="265" r="140" fill="#f0abfc" opacity=".18"/>
+  <g fill="#fff"><path class="twinkle" d="m170 230 7 19 19 7-19 7-7 19-7-19-19-7 19-7z"/><circle class="twinkle t2" cx="950" cy="87" r="7"/><circle class="twinkle t3" cx="1020" cy="145" r="5"/><path class="twinkle t2" d="m1060 220 5 14 14 5-14 5-5 14-5-14-14-5 14-5z"/></g>
+  <text class="name" x="600" y="173" text-anchor="middle" fill="url(#text)" font-family="Verdana,Arial,sans-serif" font-size="64" font-weight="700">Tasfia Tabassum</text>
+  <text x="600" y="232" text-anchor="middle" fill="#f5eaff" font-family="Verdana,Arial,sans-serif" font-size="25" letter-spacing="5">WELCOME TO MY GITHUB PROFILE</text>
+  <path d="M450 268h300" stroke="#f0abfc" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+</svg>
