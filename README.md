@@ -12,6 +12,20 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="assets/sparkle.svg" width="72" height="72" alt="Animated sparkle icon" />
   </p>
+  <p>
+    <img src="assets/book.svg" width="56" height="56" alt="Animated book icon" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="assets/rocket.svg" width="56" height="56" alt="Animated rocket icon" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="assets/star.svg" width="56" height="56" alt="Animated star icon" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Currently working on</h2>
+  <p>Learning, experimenting, and building new things one project at a time.</p>
 </div>
 
 ---
