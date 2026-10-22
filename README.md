@@ -31,8 +31,8 @@
 ---
 
 <div align="center">
-  <h2>✨ A little about me</h2>
-  <p>I enjoy exploring technology, trying out ideas, and learning by building. Take a look around my repositories and follow along as I grow.</p>
+  <h2>✨ About Me</h2>
+  <p>Hi, I'm <strong>Tasfia Tabassum</strong> — a curious builder who enjoys turning ideas into code. I'm exploring Python, JavaScript, React, Java, C++, and Node.js, and learning by creating projects one step at a time. Always experimenting, always growing, and excited for the next idea.</p>
 </div>
 
 ---
