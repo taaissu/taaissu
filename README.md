@@ -62,7 +62,7 @@
 <div align="center">
   <h2>📊 GitHub at a glance</h2>
   <a href="https://github.com/taaissu">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ff5f66k.bot-keep.xyz%2Fapi%2Fv1%2Fcounter%2Fquincunx33&amp;query=%24.total&amp;label=PROFILE%20VIEWS&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1f2937&amp;color=36d98f" alt="Profile visitor counter from quincunx33" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ff5f66k.bot-keep.xyz%2Fapi%2Fv1%2Fcounter%2Ftaaissu&amp;query=%24.total&amp;label=PROFILE%20VIEWS&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1f2937&amp;color=36d98f" alt="taaissu profile visitor counter" />
   </a>
   <br/><br/>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=taaissu&show_icons=true&theme=tokyonight&hide_border=true" alt="Tasfia's GitHub stats" />
