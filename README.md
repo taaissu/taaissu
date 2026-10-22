@@ -53,9 +53,10 @@
 </div>
 
 <div align="center">
-  <h2>🤝 Let's connect</h2>
+  <h2>💌 Contact Me &amp; Socials</h2>
+  <p><em>Find me around the web — pick your favorite way to connect.</em></p>
   <a href="https://taissu.pages.dev">
-    <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
+    <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
   </a>
   <a href="https://github.com/taaissu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
