@@ -49,6 +49,12 @@
   <a href="https://github.com/taaissu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="https://www.instagram.com/tasfiya__tabassum__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+  </a>
+  <a href="https://www.facebook.com/taissuuu">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" />
+  </a>
 </div>
 
 ---
