@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Animated heart icon">
+  <style>
+    .heart { transform-box: fill-box; transform-origin:center; animation: beat 1.25s ease-in-out infinite; }
+    @keyframes beat { 0%,100% { transform:scale(.92) } 50% { transform:scale(1.08) } }
+  </style>
+  <path class="heart" fill="#ec4899" d="M32 56 8.5 33C-4 20 14 2 27 14l5 5 5-5C50 2 68 20 55.5 33Z"/>
+</svg>

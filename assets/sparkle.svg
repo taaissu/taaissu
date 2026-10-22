@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Animated sparkle">
+  <style>
+    .star { transform-box: fill-box; transform-origin: center; animation: twinkle 1.8s ease-in-out infinite; }
+    .small { animation-delay: .45s; }
+    @keyframes twinkle { 0%,100% { transform: scale(.72) rotate(-12deg); opacity:.55 } 50% { transform: scale(1.08) rotate(12deg); opacity:1 } }
+  </style>
+  <path class="star" fill="#a855f7" d="M32 3 38.5 24.5 60 31 38.5 37.5 32 59 25.5 37.5 4 31 25.5 24.5Z"/>
+  <path class="star small" fill="#f0abfc" d="m52 3 2.4 7.6L62 13l-7.6 2.4L52 23l-2.4-7.6L42 13l7.6-2.4Z"/>
+</svg>

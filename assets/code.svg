@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Animated code icon">
+  <style>
+    .bracket { animation: pulse 1.6s ease-in-out infinite; }
+    .right { animation-delay: .25s; }
+    @keyframes pulse { 0%,100% { opacity:.58; transform:translateY(0) } 50% { opacity:1; transform:translateY(-3px) } }
+  </style>
+  <path class="bracket" fill="#8b5cf6" d="M22 15 5 32l17 17 4-4-13-13 13-13z"/>
+  <path class="bracket right" fill="#c084fc" d="m42 15-4 4 13 13-13 13 4 4 17-17z"/>
+  <path fill="#a855f7" d="m36 10 5 1-13 43-5-1z"/>
+</svg>

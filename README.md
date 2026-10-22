@@ -1,16 +1,17 @@
 ## Hi there 👋
+<div align="center">
+  <img src="assets/sparkle.svg" width="34" alt="Animated sparkle" />
+  <h1>Hi, I'm Tasfia Tabassum</h1>
+  <p><em>Welcome to my GitHub profile!</em></p>
+  <img src="assets/code.svg" width="32" alt="Animated code icon" />
+  &nbsp;&nbsp;
+  <img src="assets/heart.svg" width="32" alt="Animated heart icon" />
+  &nbsp;&nbsp;
+  <img src="assets/sparkle.svg" width="32" alt="Animated sparkle icon" />
+</div>
 
-<!--
-**taaissu/taaissu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>Thanks for stopping by — feel free to explore my repositories.</p>
+</div>
