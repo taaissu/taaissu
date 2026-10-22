@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Tasfia Tabassum</h1>
-  <p><em>Welcome to my GitHub profile!</em></p>
+  <h1>Hey, I'm Tasfia Tabassum</h1>
+  <p><em>A little corner of GitHub for code, experiments, and things I'm learning.</em></p>
   <p>
     <img src="assets/code.svg" width="72" height="72" alt="Animated code icon" />
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,21 +24,22 @@
 ---
 
 <div align="center">
-  <h2>🚀 Currently working on</h2>
-  <p>Learning, experimenting, and building new things one project at a time.</p>
+  <h2>🚀 What I'm up to</h2>
+  <p><strong>Currently working on:</strong> learning, experimenting, and building new things one project at a time.</p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>✨ Thanks for visiting ✨</h2>
-  <p>Feel free to explore my repositories and follow along as I build and learn.</p>
+  <h2>✨ A little about me</h2>
+  <p>I enjoy exploring technology, trying out ideas, and learning by building. Take a look around my repositories and follow along as I grow.</p>
 </div>
 
 ---
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
+  <p><em>Languages and tools in my toolkit</em></p>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=white" alt="SVG" />
@@ -52,7 +53,7 @@
 </div>
 
 <div align="center">
-  <h2>🔗 Connect with me</h2>
+  <h2>🤝 Let's connect</h2>
   <a href="https://taissu.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
   </a>
