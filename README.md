@@ -24,6 +24,22 @@
 ---
 
 <div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=white" alt="SVG" />
+</div>
+
+<div align="center">
+  <h2>🔗 Connect with me</h2>
+  <a href="https://github.com/taaissu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</div>
+
+---
+
+<div align="center">
   <h2>📊 GitHub at a glance</h2>
   <img src="https://komarev.com/ghpvc/?username=taaissu&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile visitor counter" />
   <br/><br/>
