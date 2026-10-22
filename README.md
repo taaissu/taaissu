@@ -86,6 +86,6 @@
     <img src="https://streak-stats.demolab.com?user=taaissu&theme=tokyonight&hide_border=true" alt="Tasfia's GitHub contribution streak" />
   </p>
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=taaissu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Tasfia's GitHub contribution activity graph in a Tokyo Night color scheme" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taaissu&theme=tokyonight" alt="Tasfia's GitHub contribution and profile activity summary in a Tokyo Night color scheme" />
   </p>
 </div>
