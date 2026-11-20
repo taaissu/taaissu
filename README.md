@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/tasfia-header-banner.png" width="100%" alt="Tasfia Tabassum — turning ideas into code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:22d3ee,100:f472b6&height=210&section=header&text=TASFIA%20TABASSUM&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%C2%B7%20Create%20%C2%B7%20Learn&descAlignY=62&descSize=20" alt="Animated Tasfia Tabassum header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=820&lines=Turning+ideas+into+code;Learning%2C+building%2C+and+growing;Welcome+to+my+GitHub+profile" alt="Animated profile introduction" />
 </div>
 
 <div align="center">
